@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# rubocop:disable all
 
 class Corrector
   def correct_name(name)
