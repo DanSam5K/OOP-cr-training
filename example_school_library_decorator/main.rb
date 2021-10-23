@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+# rubocop:disable all
+
 require_relative './person'
 require_relative './book'
 require_relative './teacher'
@@ -142,3 +145,4 @@ def main
 end
 
 main
+# rubocop:enable all
