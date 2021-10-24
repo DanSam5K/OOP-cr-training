@@ -46,11 +46,11 @@ e.g. $ cd Desktop/OOP-cr-training
 ​
 ## Author 👤 
 
-👨‍💻 **Daniel Samuel**
+👨‍💻 **Uzair Ali**
 
-- Github: [DanSam5k](https://github.com/DanSam5k)
-- Twitter: [@_dan_sam](https://twitter.com/_dan_sam)
-- Linkedin: [dansamuel](https://www.linkedin.com/in/dansamuel/)
+- Github: [Uzair Ali](https://github.com/uzairali19)
+- Twitter: [@uzairali751](https://twitter.com/Uzairali751)
+- Linkedin: [uzairali19](https://www.linkedin.com/in/uzairali19/)
 
 ## 🤝 Contributing
 
