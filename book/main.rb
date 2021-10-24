@@ -5,8 +5,8 @@ class AddBook
     @books = []
   end
 
-  def list_books
-    puts 'Zero Books Found' if @books.empty?
+  def list_all_books
+    puts 'No books found. Please add some books!' if @books.empty?
 
     @books.each do |book|
       puts "Title: \"#{book.title}\", Author: #{book.author}"
