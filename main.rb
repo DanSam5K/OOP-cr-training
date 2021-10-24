@@ -1,16 +1,19 @@
 # rubocop:disable all
 
-require_relative './person'
-require_relative './book'
-require_relative './teacher'
-require_relative './student'
-require_relative './rental'
+require_relative './person/person'
+require_relative './book/book'
+require_relative './book/add_book'
+require_relative './person/teacher'
+require_relative './person/student'
+require_relative './rental/rental'
 
 class App
-  def initialize
-    @books = []
-    @people = []
-    @rentals = []
+  attr_accessor :books, :people
+
+  def initialize(people = [], books = [], rentals = [])
+    @books = books
+    @people = people
+    @rentals = rentals
   end
 
   def list_all_books

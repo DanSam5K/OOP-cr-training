@@ -1,5 +1,3 @@
-# rubocop:disable all
-
 class Book
   attr_accessor :title, :author, :rentals
 
