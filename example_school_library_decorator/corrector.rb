@@ -1,6 +1,8 @@
+# rubocop:disable all
+
 class Corrector
   def correct_name(name)
     name.capitalize!
-    name[0,10]
+    name[0, 10]
   end
 end
