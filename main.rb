@@ -9,6 +9,7 @@ require_relative './person/student'
 require_relative './rental/rental'
 require_relative './rental/main'
 
+
 class App
   attr_accessor :books, :people
 
